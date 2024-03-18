@@ -1,0 +1,23 @@
+{
+	"name": "discord-http-fastify",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"discord-api-types": "^0.37.75",
+		"discord-verify": "^1.2.0",
+		"dotenv": "^16.4.5",
+		"fastify": "^4.26.2"
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.28",
+		"nodemon": "^3.1.0",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.4.2"
+	}
+}
